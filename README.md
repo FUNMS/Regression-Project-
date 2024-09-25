@@ -101,7 +101,7 @@ Scenario Analysis: Perform what-if analysis to understand the impact of differen
 
 Communicate findings to stakeholders
 
-onclusion
+Conclusion
 
 By completing this project, we gained solid understanding of regression models and time series analysis. This knowledge will enable you to leverage data for insightful business decisions and accurate forecasts.
 
